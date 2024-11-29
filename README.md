@@ -12,7 +12,7 @@ CQRS is an architectural pattern that separates read and write operations for a 
 - **Queries:** Get product by ID, List all products.
 - **MediatR:** Used for handling commands and queries.
 - **Entity Framework Core:** Used for database persistence.
-- **ASP.NET Core 7:** Provides the RESTful API framework.
+- **ASP.NET Core 8:** Provides the RESTful API framework.
 - **Error Handling:** Includes basic exception handling and returns informative error messages.
 
 **API Endpoints:**
