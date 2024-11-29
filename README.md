@@ -23,3 +23,5 @@ CQRS is an architectural pattern that separates read and write operations for a 
 - **POST /api/products:** Creates a new product. Send a JSON payload in the request body with the product's Name, Description, and Price.
 - **PUT /api/products/{id}:** Updates the product with the specified ID. Send a JSON payload with the updated Name, Description, and Price.
 - **DELETE /api/products/{id}:** Deletes the product with the specified ID.
+
+![image](https://github.com/user-attachments/assets/da0d1adb-540f-4657-ab54-80533dfa2819)
